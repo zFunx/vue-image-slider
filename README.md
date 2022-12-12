@@ -1,2 +1,2 @@
 # vue-image-slider
-Image Slider using Transition component
+Image Slider using `<Transition>` component
